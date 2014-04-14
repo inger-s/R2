@@ -1,0 +1,62 @@
+RengøringsRoulette - R2
+
+Mål: et rent lokal
+Hvordan: igennem frivilligt arbejde af alle OSAAs medlemmer
+
+Jeg vil gerne lave en app til rengøring af lokalet.
+Rengøringen er fordelt i en masse små opgaver i faste steder (se nedunder). Opgaverne vises som fliser.
+Hver flise har en grøn farve, hvis den er gennemført.
+Fliserne har en gul farve, hvis opgaverne trænger til en kærlig hånd
+Fliserne har en rød farve, hvis der skal rengøres NU!
+
+Så man ser rengøringsopgave som en tæppe. Jo grønner, desto rener.
+
+3 måder at gøre rent på:
+1 Man kan vælge en opgave
+2 Man kan lade programmet vælge en opgave til dig (Roulette)
+3 Du kan indstille hvilken slags opgave det kan være (fx. et rum, eller støvsugning, eller viske med et klud), derefter lade programmet vælge en tilsvarende opgave til dig (Roulette med betingelser)
+
+I Rouletten deltager kun de opgave, der er gule eller røde.
+
+Når man er færdig med opgaven, taster man dato og navn ind, og så springer opgaveflisen til grøn (og starter den nye rengøringssekvens).
+
+HVOR & HVAD
+Toilet: vaske kummen, vaske væsket, vaske gulvet, tømme affald
+Wetroom: vaske væsket, vaske køkkenbordet,  vaske gulvet, væske fliser, tømme affald
+Electronics Room: viske bordene, støvsugning, vaske gulvet
+Locker Room: viske lockere, støvsugning, vaske gulvet
+Radio Room: viske lockere, støvsugning, vaske gulvet
+Dirty Room: støvsugning, vaske gulvet, tømme affald
+Laser Room: støvsugning, vaske gulvet 
+Sofahjørnet: rengøre sofaer, støvsugning, vaske gulvet, viske bordet
+Bordene: viske
+Mødebordet: viske
+Hyldene: viske
+
+HVAD
+Støvsugning
+Vaske gulv
+Viske overflade med fugtigt klud
+Rengøre køleskabe
+
+SEKVENS
+
+UGENTLIG
+Toilet
+Wet Room (køkkenet)
+Komme glycerin i vandlås
+
+MÅNEDLIG
+Støvsugning af det store rum
+Dusting the ceiling
+Rengøre bordene i det store rum med fugtigt klud
+Køleskabene: rydde op og gøre rent
+
+HALVTÅRLIG
+Tjekke hyldene/reoler og gøre dem rent
+Rengøre stolene
+
+EFTER BEHOV
+Tøjvask
+Limbohyldeinholdet skal køres væk
+Fjerne spindelvæv
